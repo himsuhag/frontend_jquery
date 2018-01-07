@@ -1,0 +1,37 @@
+.red{
+	background-color: rgb(255,0,0);
+	float: left;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    border: 1px solid #73AD21;
+    
+   
+    
+}
+div.blue{
+	background-color: blue;
+	float: left;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    border: 1px solid #73AD21;
+}
+div.green{
+	background-color: green;
+	float: left;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    border: 1px solid #73AD21;
+	}
+body{
+	background-color: #96deda;
+}
+#content{
+	background-color: white;
+	font-style: veranda;
+	max-width:500px;
+	max-height: 500px;
+	overflow-y: scroll;
+}
